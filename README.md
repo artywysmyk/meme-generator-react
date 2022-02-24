@@ -15,8 +15,6 @@ The main puprose of this project was to learn and practice:
 - forms
 - Side Effect
 
-![Screen Shot 2022-01-29 at 19 01 33](https://user-images.githubusercontent.com/77698908/155564172-bf644cda-1e25-4fe8-91a3-22949d68a8b3.png)
-
 ![Screen Shot 2022-01-29 at 19 01 40](https://user-images.githubusercontent.com/77698908/155564185-edb2d8f2-3541-4ed3-af68-4d500cb0ed0f.png)
 
 ![Screen Shot 2022-02-08 at 20 05 12](https://user-images.githubusercontent.com/77698908/155564192-f4f575c7-0a9b-4b41-a889-3d8548e39c97.png)
