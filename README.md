@@ -19,8 +19,6 @@ The main puprose of this project was to learn and practice:
 
 ![Screen Shot 2022-02-08 at 20 05 12](https://user-images.githubusercontent.com/77698908/155564192-f4f575c7-0a9b-4b41-a889-3d8548e39c97.png)
 
-![Screen Shot 2022-02-08 at 20 05 37](https://user-images.githubusercontent.com/77698908/155564197-caf60556-538f-4d2e-9358-f60272b00eb7.png)
-
 ![Screen Shot 2022-02-08 at 20 06 28](https://user-images.githubusercontent.com/77698908/155564202-478b5f2d-4d3f-4d55-bd7e-4476a64f3c23.png)
 
 ![Screen Shot 2022-02-08 at 20 06 56](https://user-images.githubusercontent.com/77698908/155564204-805e06ff-065d-40ae-8b04-ea784e74a432.png)
